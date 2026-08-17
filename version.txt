@@ -1,3 +1,3 @@
-2.25
+2.26
 https://github.com/SmokeyBlues28/toni/releases/download/v2.26/TONI-Setup.exe
 070837a0eae8bbecf21dff7aeeeee2477959aad4dd5b7b9cd8028eb6315fee6e
