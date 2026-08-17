@@ -1,2 +1,3 @@
 2.25
 https://github.com/SmokeyBlues28/toni/releases/download/v2.25/TONI-Setup.exe
+87084b8521d72b9b3fd75a8fb02c6fb7f0e12c23a0400d61dee5608755a3e29a
